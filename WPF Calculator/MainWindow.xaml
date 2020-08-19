@@ -1,0 +1,44 @@
+﻿<Window x:Class="WPF_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Calculator"
+        mc:Ignorable="d"
+        Title="WPF Calculator" Height="140" Width="480">
+    <Border Padding="5">
+        <StackPanel>
+            <Grid>
+                
+                <!--input1 and input2-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="0.25*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <TextBox x:Name="userInput1" PreviewTextInput="userInput1_PreviewTextInput" Grid.Column="0" Padding="10" Margin="0 0 5 0"/>
+                <TextBlock x:Name="opSign" Grid.Column="1" Text="+" Padding="5" FontWeight="ExtraBold"/>
+                <TextBox x:Name="userInput2" PreviewTextInput="userInput1_PreviewTextInput" Grid.Column="2" Padding="10"/>
+                <TextBlock x:Name="calcResult" Grid.Column="3" Padding="10" Text="Result" FontWeight="ExtraBold"/>
+            </Grid>
+            <Grid Margin=" 0 5 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!--operation sign buttons-->
+                <Button x:Name="buttonPlus" Click="buttonPlus_Click" Grid.Column="0" Content="+" Margin="0 0 5 0"/>
+                <Button x:Name="buttonMinus" Click="buttonMinus_Click" Grid.Column="1" Content="-" Margin="0 0 5 0"/>
+                <Button x:Name="buttonMultiply" Click="buttonMultiply_Click" Grid.Column="2" Content="*" Margin="0 0 5 0"/>
+                <Button x:Name="buttonDivide" Click="buttonDivide_Click" Grid.Column="3" Content="/"/>
+            </Grid>
+            <!--final button and calculation button-->
+            <Button x:Name="buttonCalculate" Click="buttonCalculate_Click" Content="Calculate" Margin="0 5 0 0"/>
+        </StackPanel>
+    </Border>
+</Window>

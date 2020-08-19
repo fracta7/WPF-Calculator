@@ -1,0 +1,19 @@
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.exe
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.deps.json
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.runtimeconfig.json
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.runtimeconfig.dev.json
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.dll
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\bin\Release\netcoreapp3.1\WPF Calculator.pdb
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.csprojAssemblyReference.cache
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator_MarkupCompile.cache
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator_MarkupCompile.lref
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.g.resources
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.AssemblyInfoInputs.cache
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.AssemblyInfo.cs
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.dll
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.pdb
+C:\Users\Javokhir\source\repos\WPF Calculator\WPF Calculator\obj\Release\netcoreapp3.1\WPF Calculator.genruntimeconfig.cache
